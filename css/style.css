@@ -1,0 +1,311 @@
+/* CSS Document */
+
+/* ESTILOS GENERALES -----------------------------------------------------------------------------------------------------------------------*/
+
+/* TITULOS DE CAMPOS ---------------------------------------------------------------- */
+
+.tituloscampos {
+	font-family:Verdana;
+	font-size:10px;
+	font-weight:bold;
+}
+
+.tituloscamposg {
+	font-family:Verdana;
+	font-size:10px;
+	font-weight:bold;
+	color:#CCC;
+}
+
+.tituloscampossc {
+	font-family:Verdana;
+	font-size:10px;
+	font-weight:bold;
+}
+
+/*DECORACIONES DE SECCIONES---------------------------------------------------------- */
+
+.celdatituloazul {
+	background-image:url(../images/fnd_001.jpg);
+	height:29px;
+}
+
+.celdatituloazul_c {
+	background-image:url(../images/fnd_001c.jpg);
+	height:29px;
+}
+
+.fondolineaszulesvert {
+	background-image:url(../images/fnd_002.jpg);
+}
+
+.fondolineaszulesvert_c {
+	background-image:url(../images/fnd_002c.jpg);
+}
+
+.celdapieazul {
+	background-image:url(../images/img_001.jpg);
+	height:14px;
+}
+
+.celdapieazul_c {
+	background-image:url(../images/img_001c.jpg);
+	height:14px;
+}
+
+.celdabotones1 {
+	background-image:url(../images/fnd_002.jpg);
+}
+
+.celdabotones1_c {
+	background-image:url(../images/fnd_002c.jpg);
+}
+
+
+.celdabotonera {
+	background-image:url(../images/fnd_003.jpg);
+	height:30px;
+}
+
+.celdapiesimple {
+	background-image:url(../images/fnd_005.jpg);
+	height:19px;
+}
+
+.celdapiesimple_c {
+	background-image:url(../images/fnd_005c.jpg);
+	height:14px;
+}
+
+
+.celdasuperiorsimple {
+	background-image:url(../images/fnd_006.jpg);
+	height:14px;
+}
+
+.celdasuperiorsimple_c {
+	background-image:url(../images/fnd_006c.jpg);
+	height:14px;
+}
+
+.contador {
+	font-family:Verdana;
+	font-size:44px;
+	font-weight:bold;
+	color:#006;
+}
+
+/* GENERALES----------------------------------------------------------------------- */
+
+.textosbusqueda {
+	font-family:Arial;
+	font-size:12px;
+}
+
+.contadorbusqueda {
+	font-family:Arial;
+	font-size:10px;
+}
+
+
+/* OBJETOS DE INGRESO ------------------------------------------------------------- */
+.camposanchos {
+	font-family:Verdana;
+	font-size:12px;
+	width:630px;
+}
+
+.camposmenores {
+	font-family:Verdana;
+	font-size:12px;
+	width:550px;
+}
+
+.camposmedios {
+	font-family:Verdana;
+	font-size:12px;
+	width:480px;
+}
+
+.camposmedioscbt {
+	font-family:Verdana;
+	font-size:12px;
+	width:450px;
+}
+
+.btonmedio {
+	font-family:Verdana;
+	font-size:12px;
+	width:30px;
+}
+
+.btongrande {
+	font-family:Verdana;
+	font-size:12px;
+	width:160px;
+}
+
+.botongrabar {
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:bold;
+}
+
+
+/* ESPACIOS Y OTROS ---------------------------------------------------------------- */
+.separadormenor {
+	height:4px;
+}
+
+.separadormayor {
+	height:8px;
+	
+}
+
+.btnpequeno {
+	font-family:"Arial";
+	font-size:10px;
+	
+}
+
+.botonera {
+	font-family:"Arial";
+	font-size:12px;
+	font-weight:bold;
+	color:#FFF;
+	background:#75bdd9;
+	text-align:center;
+	text-decoration:none;
+}
+
+/* ESTILOS INSTITUCIONES -------------------------------------------------------------------------------------------------------------------*/
+
+.ins_celdtadirecciones {
+	background-color:#e6e6e6;
+	font-family:"Arial";
+	font-size:10px;
+}
+
+.ins_detalledirecciones {
+	font-family:"Arial";
+	font-size:10px;
+}
+
+.ins_detalledirecciones {
+	border-style:solid;
+	border-color:#e6e6e6;
+	border-width:2px;
+	background-color:#FFF;
+}
+
+.ins_tabladirecciones {
+	border-style:solid;
+	border-color:#e6e6e6;
+	border-width:2px;
+}
+
+.ins_tituloscampos {
+	font-family:"Arial";
+	font-size:10px;
+	font-weight:bold;
+	background-color:#e6e6e6;
+}
+
+.ins_separadormayor {
+	height:8px;
+}
+
+.ins_celdacolor {
+	background-color:#dbeff9;
+}
+
+.ins_btndireccionesadd{
+  background-image:url(images/bt_001.jpg);
+  background-repeat:no-repeat;
+  height:20px;
+  width:161px;
+  background-position:center;
+}
+
+.ins_titulomayor {
+	font-family:"Arial";
+	font-size:14px;
+	font-weight:bold;
+}
+
+.ins_titulomayordes {
+	font-family:"Arial";
+	font-size:14px;
+	font-weight:bold;
+	color:#999;
+}
+
+.ins_celdatablachica {
+	background-image:url(../images/fnd_004.jpg);
+	height:39px;
+}
+
+/* ESILOS NIVELES----------------------------------------------------------------------------------------*/
+
+.niv_menu {
+	font-family:Arial;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.niv_campochico {
+	font-family:Verdana;
+	font-size:10px;
+	width:80px;
+}
+
+.niv_botchico {
+	font-family:Verdana;
+	font-size:10px;
+	width:70px;
+}
+
+.nivNombre {
+	font-family:Arial;
+	font-size:12px;
+	text-align:center;
+	background:#CCC;
+}
+
+.nivNombreDesc {
+	font-family:Arial;
+	font-size:10px;
+}
+
+/* INICIIO---------------------------------------------------------------------------------------------*/
+
+.textoCampo {
+	font-family:"Arial";
+	font-size:12px;
+	color:#a99e88;	
+}
+
+.estiloCampos {
+	font-family:"Arial";
+	font-size:12px;
+	color:#000000;
+	border-color:#a99e88;
+	width:250px;
+}
+
+.tips {
+	font-family:"Arial";
+	font-size:12px;	
+}
+
+.colorBlanco {
+	color:#FFFFFF;
+}
+
+.titulosSecciones {
+	font-family:Verdana;
+	font-size:14px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
