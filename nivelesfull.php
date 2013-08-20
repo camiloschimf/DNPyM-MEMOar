@@ -4,7 +4,6 @@
 if (!isset($_SESSION)) {
   session_start();
 }
-
 $MM_authorizedUsers = "";
 $MM_donotCheckaccess = "true";
 
@@ -1240,7 +1239,7 @@ if($tupu >= 8 || $tupu <= 11) {
 	$tupu=100;	
 }
 ?>
-<td width="47" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100"><tr><td align="center"><?php 
+ width="47" valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100"><tr><td align="center"><?php 
 	  	
 	  	if($row_vis_nivelesVert['tipo'] == 0) {
 		  $tipo0++;	

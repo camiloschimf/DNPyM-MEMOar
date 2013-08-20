@@ -11,7 +11,6 @@ body {
 	background-color: #FFF;
 }
 </style>
-
 </head>
 <body>
 <?php require_once('activo.php'); ?>

@@ -101,7 +101,6 @@
                     </tr>
                     <tr>
                       <td height="6"></td>
-                    </tr>                                        
-                                                                                                                                            
+                    </tr>                                               
          		 </table>
                  <?php } ?>

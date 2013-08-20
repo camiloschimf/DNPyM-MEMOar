@@ -4,7 +4,6 @@
 if (!isset($_SESSION)) {
   session_start();
 }
-
 $MM_authorizedUsers = "";
 $MM_donotCheckaccess = "true";
 

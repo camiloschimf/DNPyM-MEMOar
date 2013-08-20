@@ -41,7 +41,7 @@
   </tr>
 </table>
 </td>
-      <td valign="top"><div id="fondo_vista_rapida_1" style="width:100%; height:100%;  background-color:#000; filter: Alpha(Opacity=50); opacity: 0.5;">&nbsp;</div></td>
+<td valign="top"><div id="fondo_vista_rapida_1" style="width:100%; height:100%;  background-color:#000; filter: Alpha(Opacity=50); opacity: 0.5;">&nbsp;</div></td>
     </tr>
   </table>
 </div>

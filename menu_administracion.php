@@ -301,5 +301,6 @@ if($_SESSION['MM_idrol'] == "1" || $_SESSION['MM_idrol'] == "2" || $_SESSION['MM
       <tr>
         <td class="botonera"><a href="fr_administracion.php?p=ventana" class="botonera"  target="frcentral" onclick="blanco();">Ventana</a></td>
       </tr>
+      
 <?php } ?>   
 </table>
